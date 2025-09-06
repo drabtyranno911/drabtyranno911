@@ -1,5 +1,7 @@
 ## Hi there!
 
+🚀 Hi, I'm Navaneeth — a CSE student who loves coding, gaming, and experimenting with new tech. Currently exploring C++, Python, and Unity while learning the ropes of game development and software building.
+
 <!--
 **drabtyranno911/drabtyranno911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
