@@ -1,6 +1,4 @@
-##Hey there!
-
-![VisitorCount](https://profile-counter.glitch.me/{drabtyranno911}/count.svg)
+## Hey there!
 
 🚀 Hi, I'm Navaneeth — a CSE student who loves coding, gaming, and experimenting with new tech. Currently exploring C++, Python, and Unity while learning the ropes of game development and software building.
 
