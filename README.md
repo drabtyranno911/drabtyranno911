@@ -3,7 +3,7 @@
 🚀 Hi, I'm Navaneeth — a CSE student who loves coding, gaming, and experimenting with new tech. Currently exploring C++, Python, and Unity while learning the ropes of game development and software building.
 
 ## Links:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/navaneeth-s-r)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/navaneeth-s-r-101084383)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=blue)](https://instagram.com/_drab_tyranno_)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/_Drab_TYRANN0_)
 
